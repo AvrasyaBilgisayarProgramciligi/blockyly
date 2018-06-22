@@ -1,5 +1,5 @@
 var MSG = {
-  title: "Kod",
+  title: "Algoritma ve Programlamaya Giriş",
   blocks: "Bloklar",
   linkTooltip: "Blokları ve bağlantı adresini kaydet.",
   runTooltip: "Çalışma alanında bloklar tarafından tanımlanan programını çalıştırın.",
